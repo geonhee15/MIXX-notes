@@ -1,0 +1,1294 @@
+{
+ "generatedAt": "2026-10-19T10:02:39+00:00",
+ "albums": [
+  {
+   "id": "5ONb8685IYLUQ7ze941nUP",
+   "name": "Strange Muse",
+   "label": "6th EP",
+   "date": "2026-10-19",
+   "artists": "NMIXX",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273aead8b943dc53ade95e84560",
+   "spotify": "https://open.spotify.com/album/5ONb8685IYLUQ7ze941nUP",
+   "tracks": [
+    {
+     "n": 1,
+     "name": "긴 소원 (Birthday Wish)",
+     "artists": "NMIXX",
+     "duration": 200,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/6F0vhKF4fy9WQi39JPQnCv",
+     "youtube": "https://www.youtube.com/watch?v=roHWN9fL2SM",
+     "youtubeKind": "mv"
+    },
+    {
+     "n": 2,
+     "name": "Kerosene",
+     "artists": "NMIXX",
+     "duration": 166,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/0tygvOInRGuzGDDepZAQcA",
+     "youtube": "https://www.youtube.com/watch?v=nWieHUQ_QbY",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 3,
+     "name": "RudE TaLK",
+     "artists": "NMIXX",
+     "duration": 154,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/07xGlLwmzOF1YFogQyfSeJ",
+     "youtube": "https://www.youtube.com/watch?v=zuS4oIxy2iA",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 4,
+     "name": "너는 달 (Sing to the Moon) (LILY, HAEWON)",
+     "artists": "NMIXX",
+     "duration": 240,
+     "title": false,
+     "members": [
+      "LILY",
+      "HAEWON"
+     ],
+     "spotify": "https://open.spotify.com/track/77ylGLoxAKqkjW9YlX16vy",
+     "youtube": "https://www.youtube.com/watch?v=H6Uv2xfdo0I",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 5,
+     "name": "Hot 'n Unbothered (SULLYOON, BAE)",
+     "artists": "NMIXX",
+     "duration": 139,
+     "title": false,
+     "members": [
+      "SULLYOON",
+      "BAE"
+     ],
+     "spotify": "https://open.spotify.com/track/6Ruz3p5vLVj6PWXhGIgjc6",
+     "youtube": "https://www.youtube.com/watch?v=Ttkuuf4corU",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 6,
+     "name": "휙 (WHIP) (JIWOO, KYUJIN)",
+     "artists": "NMIXX",
+     "duration": 125,
+     "title": false,
+     "members": [
+      "JIWOO",
+      "KYUJIN"
+     ],
+     "spotify": "https://open.spotify.com/track/34aLNAQz3WpE8VB084fMFc",
+     "youtube": "https://www.youtube.com/watch?v=TiTK9siBt0g",
+     "youtubeKind": "audio"
+    }
+   ]
+  },
+  {
+   "id": "0TOh2mF9pf00hxvePxpJFj",
+   "name": "Heavy Serenade",
+   "label": "5th EP",
+   "date": "2026-05-11",
+   "artists": "NMIXX",
+   "cover": "https://i.scdn.co/image/ab67616d0000b27357437d1095e12513210162c5",
+   "spotify": "https://open.spotify.com/album/0TOh2mF9pf00hxvePxpJFj",
+   "tracks": [
+    {
+     "n": 1,
+     "name": "Crescendo",
+     "artists": "NMIXX",
+     "duration": 159,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/5204mF69iUqPlC9E2hPmtk",
+     "youtube": "https://www.youtube.com/watch?v=-SEKt_0pdHM",
+     "youtubeKind": "mv"
+    },
+    {
+     "n": 2,
+     "name": "Heavy Serenade",
+     "artists": "NMIXX",
+     "duration": 180,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/2adYJ0qJw5Io8nhtQ9KjHq",
+     "youtube": "https://www.youtube.com/watch?v=6Ycn9qZK09I",
+     "youtubeKind": "mv"
+    },
+    {
+     "n": 3,
+     "name": "IDESERVEIT",
+     "artists": "NMIXX",
+     "duration": 164,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/4JfXuXGbrRjtcGPx6wajt2",
+     "youtube": "https://www.youtube.com/watch?v=8GWbzjE_E7o",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 4,
+     "name": "Different Girl",
+     "artists": "NMIXX",
+     "duration": 143,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/103tVEshkzagWm7DcPTvkg",
+     "youtube": "https://www.youtube.com/watch?v=zhvnMYsdY3s",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 5,
+     "name": "Superior",
+     "artists": "NMIXX",
+     "duration": 156,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/5CzJ9V53iXPOyt8wgUqOGN",
+     "youtube": "https://www.youtube.com/watch?v=HvbggieqqUk",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 6,
+     "name": "LOUD",
+     "artists": "NMIXX",
+     "duration": 170,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/1mj5NqZYmFRj8CFTNrcr68",
+     "youtube": "https://www.youtube.com/watch?v=e7t8JzqVXcs",
+     "youtubeKind": "audio"
+    }
+   ]
+  },
+  {
+   "id": "0vjMmLl4CGSYbmXASYydhQ",
+   "name": "TIC TIC",
+   "label": "디지털 싱글",
+   "date": "2026-02-26",
+   "artists": "NMIXX",
+   "cover": "https://i.scdn.co/image/ab67616d0000b27317dd6ece4c4b2ec20898d65b",
+   "spotify": "https://open.spotify.com/album/0vjMmLl4CGSYbmXASYydhQ",
+   "tracks": [
+    {
+     "n": 1,
+     "name": "TIC TIC (feat. Pabllo Vittar)",
+     "artists": "NMIXX, Pabllo Vittar",
+     "duration": 133,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/3LI7emieOkgFz1qbVcKR7m",
+     "youtube": "https://www.youtube.com/watch?v=1tkjwhhYIFU",
+     "youtubeKind": "mv"
+    }
+   ]
+  },
+  {
+   "id": "7kGFCiC7cvWU6OaqUPIF3i",
+   "name": "Blue Valentine (MIXX Ver.)",
+   "label": "디지털 싱글",
+   "date": "2025-10-17",
+   "artists": "NMIXX",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273add141497cd3a6edbf37906b",
+   "spotify": "https://open.spotify.com/album/7kGFCiC7cvWU6OaqUPIF3i",
+   "tracks": [
+    {
+     "n": 1,
+     "name": "Blue Valentine",
+     "artists": "NMIXX",
+     "duration": 186,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/1hkXJZ2VF9IsQ4ivdGPBTm",
+     "youtube": "https://www.youtube.com/watch?v=EmeW6li6bbo",
+     "youtubeKind": "mv"
+    },
+    {
+     "n": 2,
+     "name": "Blue Valentine (English Ver.)",
+     "artists": "NMIXX",
+     "duration": 186,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/4J2toEhFzQlGomsnJJNia5",
+     "youtube": "https://www.youtube.com/watch?v=4p22W2KaIIw",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 3,
+     "name": "Blue Valentine (A Cappella Ver.)",
+     "artists": "NMIXX",
+     "duration": 186,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/6ZO7KaFkeMbl45q6UpPTBr",
+     "youtube": "https://www.youtube.com/watch?v=vAaO70QaPm0",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 4,
+     "name": "Blue Valentine (Sped Up Ver.)",
+     "artists": "NMIXX",
+     "duration": 150,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/6TuDKfuFwpmYDj3z4OgD6n",
+     "youtube": "https://www.youtube.com/watch?v=NnEdG45q5ag",
+     "youtubeKind": "audio"
+    }
+   ]
+  },
+  {
+   "id": "0fDy1DwMawX4l1nvV2diwW",
+   "name": "Blue Valentine",
+   "label": "1st Album",
+   "date": "2025-10-13",
+   "artists": "NMIXX",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273a09a9e88d4bd56df6fb5f9c5",
+   "spotify": "https://open.spotify.com/album/0fDy1DwMawX4l1nvV2diwW",
+   "tracks": [
+    {
+     "n": 1,
+     "name": "Blue Valentine",
+     "artists": "NMIXX",
+     "duration": 186,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/0FKR7mQJnYqdEmHAMhgQjw",
+     "youtube": "https://www.youtube.com/watch?v=EmeW6li6bbo",
+     "youtubeKind": "mv"
+    },
+    {
+     "n": 2,
+     "name": "SPINNIN′ ON IT",
+     "artists": "NMIXX",
+     "duration": 196,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/0XbCJq4M7vpNKIUxdN90jq",
+     "youtube": "https://www.youtube.com/watch?v=RblIsNFR1j4",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 3,
+     "name": "Phoenix",
+     "artists": "NMIXX",
+     "duration": 164,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/0Q5GvSTFxH8yk3A9ktC3iv",
+     "youtube": "https://www.youtube.com/watch?v=dgeH9vxwYss",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 4,
+     "name": "Reality Hurts",
+     "artists": "NMIXX",
+     "duration": 155,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/3Y0FjAuJPUfZzXS8eyWEhi",
+     "youtube": "https://www.youtube.com/watch?v=y4LlcShv9xs",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 5,
+     "name": "RICO",
+     "artists": "NMIXX",
+     "duration": 152,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/0crajuERnAByPA6Aqh1a2T",
+     "youtube": "https://www.youtube.com/watch?v=Ns0S-fnoBYQ",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 6,
+     "name": "Game Face",
+     "artists": "NMIXX",
+     "duration": 163,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/3Uuy2fuPkAK3aEIt8yqMoe",
+     "youtube": "https://www.youtube.com/watch?v=O4Sp0fxR_pE",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 7,
+     "name": "PODIUM",
+     "artists": "NMIXX",
+     "duration": 181,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/2RVdd9U57DFkUCRCxLCnyL",
+     "youtube": "https://www.youtube.com/watch?v=htpM--gDJEw",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 8,
+     "name": "Crush On You",
+     "artists": "NMIXX",
+     "duration": 159,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/3DroKlrPt6ZgmvzUUDnuWf",
+     "youtube": "https://www.youtube.com/watch?v=sdDY6tSJjFg",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 9,
+     "name": "ADORE U",
+     "artists": "NMIXX",
+     "duration": 150,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/5wAVnAV1djH9QQpifjlgod",
+     "youtube": "https://www.youtube.com/watch?v=gUSdNGgO7wE",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 10,
+     "name": "Shape of Love",
+     "artists": "NMIXX",
+     "duration": 172,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/3px4Y4jtkvZdQKmmsuAPR3",
+     "youtube": "https://www.youtube.com/watch?v=GrrMUB9D12g",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 11,
+     "name": "O.O Part 1 (Baila)",
+     "artists": "NMIXX",
+     "duration": 186,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/7xegwUqqZgFjXQ0doavCr0",
+     "youtube": "https://www.youtube.com/watch?v=zlLhL2Lgc-8",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 12,
+     "name": "O.O Part 2 (Superhero)",
+     "artists": "NMIXX",
+     "duration": 176,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/55K2tN7GWLa7bVjyqDxJk6",
+     "youtube": "https://www.youtube.com/watch?v=Ws7qykbmAN8",
+     "youtubeKind": "audio"
+    }
+   ]
+  },
+  {
+   "id": "3ypVkFQVBorVyk2hdaYs4w",
+   "name": "Fe3O4: FORWARD",
+   "label": "4th EP",
+   "date": "2025-03-17",
+   "artists": "NMIXX",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273e0ee790a3b1d17270c55d4f9",
+   "spotify": "https://open.spotify.com/album/3ypVkFQVBorVyk2hdaYs4w",
+   "tracks": [
+    {
+     "n": 1,
+     "name": "High Horse",
+     "artists": "NMIXX",
+     "duration": 203,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/6VjvBCL6c7UjEAkIVf4nA7",
+     "youtube": "https://www.youtube.com/watch?v=vY4lGJJ2ZzI",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 2,
+     "name": "KNOW ABOUT ME",
+     "artists": "NMIXX",
+     "duration": 165,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/719MkAinn7QVNoibvtkSHW",
+     "youtube": "https://www.youtube.com/watch?v=aFrQIJ5cbRc",
+     "youtubeKind": "mv"
+    },
+    {
+     "n": 3,
+     "name": "Slingshot (＜★)",
+     "artists": "NMIXX",
+     "duration": 142,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/2NU4HvHh4JoiSM4dgD3gAO",
+     "youtube": "https://www.youtube.com/watch?v=m-ds3t1QkKc",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 4,
+     "name": "Golden Recipe",
+     "artists": "NMIXX",
+     "duration": 181,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/27QcHDVwD1M1fQUcA78OI6",
+     "youtube": "https://www.youtube.com/watch?v=Ay8wCtL3b-s",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 5,
+     "name": "Papillon",
+     "artists": "NMIXX",
+     "duration": 158,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/3VDkhSV12pxgDc8jnF0eMa",
+     "youtube": "https://www.youtube.com/watch?v=qQhEwaHszKo",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 6,
+     "name": "Ocean",
+     "artists": "NMIXX",
+     "duration": 170,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/6UJdF4LQvXfr3WBZPkHupU",
+     "youtube": "https://www.youtube.com/watch?v=JLUqbQJswyA",
+     "youtubeKind": "audio"
+    }
+   ]
+  },
+  {
+   "id": "5kdLAjDvR1q5SfftfqPrPg",
+   "name": "High Horse",
+   "label": "디지털 싱글",
+   "date": "2025-03-04",
+   "artists": "NMIXX",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273979d03243a52887317dba273",
+   "spotify": "https://open.spotify.com/album/5kdLAjDvR1q5SfftfqPrPg",
+   "tracks": [
+    {
+     "n": 1,
+     "name": "High Horse",
+     "artists": "NMIXX",
+     "duration": 203,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/5Wf9uLDvDE0istwrUaKcPO",
+     "youtube": "https://www.youtube.com/watch?v=vY4lGJJ2ZzI",
+     "youtubeKind": "audio"
+    }
+   ]
+  },
+  {
+   "id": "2kE9kmrt534r29jw2JvSO4",
+   "name": "Soñar (Spanish Ver.)",
+   "label": "디지털 싱글",
+   "date": "2024-10-11",
+   "artists": "NMIXX",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273b533c22f176117f2d4d66972",
+   "spotify": "https://open.spotify.com/album/2kE9kmrt534r29jw2JvSO4",
+   "tracks": [
+    {
+     "n": 1,
+     "name": "Soñar (Spanish Ver.)",
+     "artists": "NMIXX",
+     "duration": 173,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/0QUOaSmsXZY5my8Cjh677m",
+     "youtube": "https://www.youtube.com/watch?v=Jahnd-HwZUY",
+     "youtubeKind": "audio"
+    }
+   ]
+  },
+  {
+   "id": "0RRWmhro004YXI7Yak0EpW",
+   "name": "Fe3O4: STICK OUT",
+   "label": "3rd EP",
+   "date": "2024-08-19",
+   "artists": "NMIXX",
+   "cover": "https://i.scdn.co/image/ab67616d0000b27304a141bfd73671304eeef03a",
+   "spotify": "https://open.spotify.com/album/0RRWmhro004YXI7Yak0EpW",
+   "tracks": [
+    {
+     "n": 1,
+     "name": "별별별 (See that?)",
+     "artists": "NMIXX",
+     "duration": 182,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/2Oc0j4x7HkDRVZq8JsgACT",
+     "youtube": "https://www.youtube.com/watch?v=_Q8Jskeps9w",
+     "youtubeKind": "mv"
+    },
+    {
+     "n": 2,
+     "name": "SICKUHH (feat. Kid Milli)",
+     "artists": "NMIXX, Kid Milli",
+     "duration": 159,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/2RmiB0RJPAfpXrLrmNzaAm",
+     "youtube": "https://www.youtube.com/watch?v=auLcAboA-eE",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 3,
+     "name": "Red light sign, but we go",
+     "artists": "NMIXX",
+     "duration": 137,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/6HWA9Dx9pG0URF24dXTKll",
+     "youtube": "https://www.youtube.com/watch?v=PtL6nkdYQtQ",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 4,
+     "name": "BEAT BEAT",
+     "artists": "NMIXX",
+     "duration": 168,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/1Tt3WS4RRDqH19CtfGVklx",
+     "youtube": "https://www.youtube.com/watch?v=zaXETgj2a0U",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 5,
+     "name": "Moving On",
+     "artists": "NMIXX",
+     "duration": 210,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/1XxnoDuLIUOjzifsHkCZVL",
+     "youtube": "https://www.youtube.com/watch?v=N5C8ofAOLiM",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 6,
+     "name": "Love Is Lonely",
+     "artists": "NMIXX",
+     "duration": 197,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/6FBLP2QYurBvzSjZBoCa3Z",
+     "youtube": "https://www.youtube.com/watch?v=zhrT1cmQ9zA",
+     "youtubeKind": "audio"
+    }
+   ]
+  },
+  {
+   "id": "3iM9IcCKlZrTtvjgKvbtBW",
+   "name": "FEIFEI",
+   "label": "디지털 싱글",
+   "date": "2024-07-31",
+   "artists": "NMIXX",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273211dd4f1141b597f5f1c2ac9",
+   "spotify": "https://open.spotify.com/album/3iM9IcCKlZrTtvjgKvbtBW",
+   "tracks": [
+    {
+     "n": 1,
+     "name": "FEIFEI",
+     "artists": "NMIXX",
+     "duration": 210,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/3xHoqEgh1tknyT2h7mKZnB",
+     "youtube": "https://www.youtube.com/watch?v=zrYC3LEpc6w",
+     "youtubeKind": "mv"
+    }
+   ]
+  },
+  {
+   "id": "5eFVAS7IWjTOGGkJ1yO16y",
+   "name": "Fe3O4: BREAK",
+   "label": "2nd EP",
+   "date": "2024-01-15",
+   "artists": "NMIXX",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273c49e11c6bdf83ae64be9342d",
+   "spotify": "https://open.spotify.com/album/5eFVAS7IWjTOGGkJ1yO16y",
+   "tracks": [
+    {
+     "n": 1,
+     "name": "DASH",
+     "artists": "NMIXX",
+     "duration": 166,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/1mXIJLlpAEG3Vab5b21QIM",
+     "youtube": "https://www.youtube.com/watch?v=7UecFm_bSTU",
+     "youtubeKind": "mv"
+    },
+    {
+     "n": 2,
+     "name": "Soñar (Breaker)",
+     "artists": "NMIXX",
+     "duration": 173,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/7C4SxzN7aGiF4LcCidtu3j",
+     "youtube": "https://www.youtube.com/watch?v=MMtRxcy8PX0",
+     "youtubeKind": "mv"
+    },
+    {
+     "n": 3,
+     "name": "Run For Roses",
+     "artists": "NMIXX",
+     "duration": 215,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/0dblbu76nrw0OxCE9vTf8p",
+     "youtube": "https://www.youtube.com/watch?v=j6tKIdt9K9M",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 4,
+     "name": "BOOM",
+     "artists": "NMIXX",
+     "duration": 175,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/2iR76I8Q4WovfgvaJb9JEg",
+     "youtube": "https://www.youtube.com/watch?v=h-7ag-IkUdE",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 5,
+     "name": "Passionfruit",
+     "artists": "NMIXX",
+     "duration": 160,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/62JWd1Sf0yHRaZdIksb5jv",
+     "youtube": "https://www.youtube.com/watch?v=v7rfkLyeTzs",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 6,
+     "name": "XOXO",
+     "artists": "NMIXX",
+     "duration": 162,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/054AJ3XTz1MFhSG6uVdYo6",
+     "youtube": "https://www.youtube.com/watch?v=FjMmFPLpScU",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 7,
+     "name": "Break The Wall",
+     "artists": "NMIXX",
+     "duration": 204,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/70fXostLZhpUdLsR6d9YSD",
+     "youtube": "https://www.youtube.com/watch?v=M8iMREaObhM",
+     "youtubeKind": "audio"
+    }
+   ]
+  },
+  {
+   "id": "3atDr2UW1WQBLzDsL5iOJT",
+   "name": "Soñar (Breaker)",
+   "label": "디지털 싱글",
+   "date": "2023-12-04",
+   "artists": "NMIXX",
+   "cover": "https://i.scdn.co/image/ab67616d0000b2738433f7f2d34fc2d30edf87fc",
+   "spotify": "https://open.spotify.com/album/3atDr2UW1WQBLzDsL5iOJT",
+   "tracks": [
+    {
+     "n": 1,
+     "name": "Soñar (Breaker)",
+     "artists": "NMIXX",
+     "duration": 173,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/3zQKe6vQMBHmthdjLHnKya",
+     "youtube": "https://www.youtube.com/watch?v=MMtRxcy8PX0",
+     "youtubeKind": "mv"
+    }
+   ]
+  },
+  {
+   "id": "5WkQD2MLRhNL1Wbd85BnWg",
+   "name": "A Midsummer NMIXX's Dream",
+   "label": "싱글 앨범",
+   "date": "2023-07-11",
+   "artists": "NMIXX",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273e5ebe5c5d6b07f9c75a69aa2",
+   "spotify": "https://open.spotify.com/album/5WkQD2MLRhNL1Wbd85BnWg",
+   "tracks": [
+    {
+     "n": 1,
+     "name": "Party O'Clock",
+     "artists": "NMIXX",
+     "duration": 183,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/5cSpLa9JzWalPQ0yktfrWf",
+     "youtube": "https://www.youtube.com/watch?v=Rd2wppggYxo",
+     "youtubeKind": "mv"
+    },
+    {
+     "n": 2,
+     "name": "Roller Coaster",
+     "artists": "NMIXX",
+     "duration": 179,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/15SXbXfyEL2tRu761oSDcZ",
+     "youtube": "https://www.youtube.com/watch?v=fqBAzCH4-9g",
+     "youtubeKind": "mv"
+    }
+   ]
+  },
+  {
+   "id": "7AShWpCGBxsv3XMxXI3geX",
+   "name": "Roller Coaster",
+   "label": "디지털 싱글",
+   "date": "2023-07-03",
+   "artists": "NMIXX",
+   "cover": "https://i.scdn.co/image/ab67616d0000b2732267918182f5ebbbf2828a98",
+   "spotify": "https://open.spotify.com/album/7AShWpCGBxsv3XMxXI3geX",
+   "tracks": [
+    {
+     "n": 1,
+     "name": "Roller Coaster",
+     "artists": "NMIXX",
+     "duration": 179,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/2AlNztYMWRJOg13xhUGwOj",
+     "youtube": "https://www.youtube.com/watch?v=fqBAzCH4-9g",
+     "youtubeKind": "mv"
+    }
+   ]
+  },
+  {
+   "id": "2mKUepexXVL69G8bBK9ECB",
+   "name": "expérgo",
+   "label": "1st EP",
+   "date": "2023-03-20",
+   "artists": "NMIXX",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273d3208792196c551ef784dc01",
+   "spotify": "https://open.spotify.com/album/2mKUepexXVL69G8bBK9ECB",
+   "tracks": [
+    {
+     "n": 1,
+     "name": "Young, Dumb, Stupid",
+     "artists": "NMIXX",
+     "duration": 190,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/68B31aUSEyTpH9g7lQ04Gq",
+     "youtube": "https://www.youtube.com/watch?v=5eh6Vj_vVg4",
+     "youtubeKind": "mv"
+    },
+    {
+     "n": 2,
+     "name": "Love Me Like This",
+     "artists": "NMIXX",
+     "duration": 188,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/2W8UduoifU1zgjKZlfY79S",
+     "youtube": "https://www.youtube.com/watch?v=EDnwWcFpObo",
+     "youtubeKind": "mv"
+    },
+    {
+     "n": 3,
+     "name": "PAXXWORD",
+     "artists": "NMIXX",
+     "duration": 192,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/1S7ewG548KitM1SZN4h37p",
+     "youtube": "https://www.youtube.com/watch?v=lH_n29wkT_4",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 4,
+     "name": "Just Did It",
+     "artists": "NMIXX",
+     "duration": 178,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/6KXjuNhdfVc17QUvw12Sx6",
+     "youtube": "https://music.youtube.com/search?q=NMIXX%20Just%20Did%20It",
+     "youtubeKind": "search"
+    },
+    {
+     "n": 5,
+     "name": "My Gosh",
+     "artists": "NMIXX",
+     "duration": 216,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/7KgfWkaQDBYbmVvnZ2XEuK",
+     "youtube": "https://www.youtube.com/watch?v=4q3JKyLc4xA",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 6,
+     "name": "HOME",
+     "artists": "NMIXX",
+     "duration": 160,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/6FPNUIPNW2H1Z1Gpt81GkO",
+     "youtube": "https://music.youtube.com/search?q=NMIXX%20HOME",
+     "youtubeKind": "search"
+    }
+   ]
+  },
+  {
+   "id": "56oDXOvFPVFqDq6k576Y18",
+   "name": "Young, Dumb, Stupid",
+   "label": "디지털 싱글",
+   "date": "2023-03-12",
+   "artists": "NMIXX",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273335510c423df5f2eafa84c2b",
+   "spotify": "https://open.spotify.com/album/56oDXOvFPVFqDq6k576Y18",
+   "tracks": [
+    {
+     "n": 1,
+     "name": "Young, Dumb, Stupid",
+     "artists": "NMIXX",
+     "duration": 190,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/73qHAnNGv0iuiedYenz8EB",
+     "youtube": "https://www.youtube.com/watch?v=5eh6Vj_vVg4",
+     "youtubeKind": "mv"
+    }
+   ]
+  },
+  {
+   "id": "2ZQSSethyzGYRVqEKBwNwO",
+   "name": "1st Intermixxion Single <Funky Glitter Christmas>",
+   "label": "디지털 싱글",
+   "date": "2022-11-23",
+   "artists": "NMIXX",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273240c0b94b6641850b389c2a3",
+   "spotify": "https://open.spotify.com/album/2ZQSSethyzGYRVqEKBwNwO",
+   "tracks": [
+    {
+     "n": 1,
+     "name": "Funky Glitter Christmas",
+     "artists": "NMIXX",
+     "duration": 190,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/6hnOv3KeFpIwLER7okvLjq",
+     "youtube": "https://www.youtube.com/watch?v=kBwikDvbRbI",
+     "youtubeKind": "mv"
+    }
+   ]
+  },
+  {
+   "id": "2uB0PgzqqWLdk2R736sMkP",
+   "name": "ENTWURF",
+   "label": "싱글 앨범",
+   "date": "2022-09-19",
+   "artists": "NMIXX",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273bba6bd33c7fbe2c5f273f8e5",
+   "spotify": "https://open.spotify.com/album/2uB0PgzqqWLdk2R736sMkP",
+   "tracks": [
+    {
+     "n": 1,
+     "name": "DICE",
+     "artists": "NMIXX",
+     "duration": 165,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/6C734SmqoIYuRWo2qSCnpC",
+     "youtube": "https://www.youtube.com/watch?v=p1bjnyDqI9k",
+     "youtubeKind": "mv"
+    },
+    {
+     "n": 2,
+     "name": "COOL (Your rainbow)",
+     "artists": "NMIXX",
+     "duration": 170,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/7pDDXE5HVFZBvMxjL4CjVp",
+     "youtube": "https://www.youtube.com/watch?v=4wKU9oIXnTI",
+     "youtubeKind": "audio"
+    }
+   ]
+  },
+  {
+   "id": "3XLwYEV8JxiKrzL1IJOQhg",
+   "name": "Kiss",
+   "label": "디지털 싱글",
+   "date": "2022-07-31",
+   "artists": "NMIXX",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273a466102d6c810c15d2a81b7d",
+   "spotify": "https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg",
+   "tracks": [
+    {
+     "n": 1,
+     "name": "Kiss",
+     "artists": "NMIXX",
+     "duration": 186,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI",
+     "youtube": "https://www.youtube.com/watch?v=eLJKQg0Wv6U",
+     "youtubeKind": "audio"
+    }
+   ]
+  },
+  {
+   "id": "0QkOWJsNjhHQwhmhy4bstt",
+   "name": "AD MARE",
+   "label": "싱글 앨범",
+   "date": "2022-02-22",
+   "artists": "NMIXX",
+   "cover": "https://i.scdn.co/image/ab67616d0000b27353714cedaeddd48c78231ae2",
+   "spotify": "https://open.spotify.com/album/0QkOWJsNjhHQwhmhy4bstt",
+   "tracks": [
+    {
+     "n": 1,
+     "name": "TANK",
+     "artists": "NMIXX",
+     "duration": 168,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/2AtshmTKGwbtCybUmYxB4u",
+     "youtube": "https://www.youtube.com/watch?v=8wCuNnlk50k",
+     "youtubeKind": "audio"
+    },
+    {
+     "n": 2,
+     "name": "O.O",
+     "artists": "NMIXX",
+     "duration": 172,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/1m2PksrrMpIev63uPxT1V0",
+     "youtube": "https://www.youtube.com/watch?v=3GWscde8rM8",
+     "youtubeKind": "mv"
+    }
+   ]
+  }
+ ],
+ "collabs": [
+  {
+   "id": "3Wti4HDrcMs4mVBtBw6tIS",
+   "name": "Caution",
+   "label": "영화 「K-POPS!」 OST",
+   "date": "2026-05-29",
+   "artists": "Anderson .Paak",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273f3d3f124c2b8bc2e993b6a84",
+   "spotify": "https://open.spotify.com/album/3Wti4HDrcMs4mVBtBw6tIS",
+   "tracks": [
+    {
+     "n": 2,
+     "name": "Caution",
+     "artists": "NMIXX, Anderson .Paak",
+     "duration": 163,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/6Rslq7198TpICmKw7sjwae",
+     "youtube": "https://www.youtube.com/watch?v=eJd4ii5avNw",
+     "youtubeKind": "mv"
+    }
+   ]
+  },
+  {
+   "id": "0QBSKm7MWMs4zOBR3YkTm3",
+   "name": "MEXE (Remix)",
+   "label": "리믹스",
+   "date": "2025-10-21",
+   "artists": "Pabllo Vittar",
+   "cover": "https://i.scdn.co/image/ab67616d0000b27366ddeaf91ba12b5f9b46e0e9",
+   "spotify": "https://open.spotify.com/album/0QBSKm7MWMs4zOBR3YkTm3",
+   "tracks": [
+    {
+     "n": 1,
+     "name": "MEXE (feat. Cobrah & NMIXX)",
+     "artists": "Pabllo Vittar, Cobrah, NMIXX",
+     "duration": 130,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/3ndTI268AwL7PKYLoED1I2",
+     "youtube": "https://www.youtube.com/watch?v=0zgJgsbcAN8",
+     "youtubeKind": "mv"
+    },
+    {
+     "n": 2,
+     "name": "MEXE (feat. NMIXX) - Miss Tacacá & LOFIHOUSEBOY Remix",
+     "artists": "Pabllo Vittar, Miss Tacacá, LOFIHOUSEBOY, NMIXX",
+     "duration": 159,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/6UZRp8FJsWWznIm8ZNel8h",
+     "youtube": "https://music.youtube.com/search?q=Pabllo%20Vittar%20MEXE%20%28feat.%20NMIXX%29%20-%20Miss%20Tacac%C3%A1%20%26%20LOFIHOUSEBOY%20Remix",
+     "youtubeKind": "search"
+    },
+    {
+     "n": 3,
+     "name": "MEXE",
+     "artists": "Pabllo Vittar, NMIXX",
+     "duration": 146,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/40nFRqyuey1IGTK8kRPGDu",
+     "youtube": "https://www.youtube.com/watch?v=0zgJgsbcAN8",
+     "youtubeKind": "mv"
+    }
+   ]
+  },
+  {
+   "id": "3pqOt29EZkGpqPHBfpPskX",
+   "name": "MEXE",
+   "label": "콜라보",
+   "date": "2025-08-21",
+   "artists": "Pabllo Vittar, NMIXX",
+   "cover": "https://i.scdn.co/image/ab67616d0000b2738ab8ca2e9e35a8b4223cf9b2",
+   "spotify": "https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX",
+   "tracks": [
+    {
+     "n": 1,
+     "name": "MEXE",
+     "artists": "Pabllo Vittar, NMIXX",
+     "duration": 146,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/43x4drok2kDJqm9dgRr685",
+     "youtube": "https://www.youtube.com/watch?v=0zgJgsbcAN8",
+     "youtubeKind": "mv"
+    }
+   ]
+  },
+  {
+   "id": "355Y5c0rmilMNsKjB2NZ6h",
+   "name": "Come On",
+   "label": "콜라보",
+   "date": "2024-09-27",
+   "artists": "Dimitri Vegas, Like Mike, NMIXX",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273057fb5567f43123f10705e65",
+   "spotify": "https://open.spotify.com/album/355Y5c0rmilMNsKjB2NZ6h",
+   "tracks": [
+    {
+     "n": 1,
+     "name": "Come On",
+     "artists": "Dimitri Vegas, Like Mike, NMIXX",
+     "duration": 146,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/3xru37jskSMG2D1GOWGXKe",
+     "youtube": "https://www.youtube.com/watch?v=mCn9VtIYcrw",
+     "youtubeKind": "audio"
+    }
+   ]
+  },
+  {
+   "id": "0CYZzTggBObmmQQvl2XqU8",
+   "name": "Like Magic",
+   "label": "콜라보",
+   "date": "2023-02-20",
+   "artists": "J.Y. Park, Stray Kids, ITZY, NMIXX",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273d8583bf72028891202fe3f98",
+   "spotify": "https://open.spotify.com/album/0CYZzTggBObmmQQvl2XqU8",
+   "tracks": [
+    {
+     "n": 1,
+     "name": "Like Magic",
+     "artists": "J.Y. Park, Stray Kids, ITZY, NMIXX",
+     "duration": 164,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/1IIW2rIolLy3kJpx4QOJRN",
+     "youtube": "https://www.youtube.com/watch?v=t6bBDAlpQZs",
+     "youtubeKind": "mv"
+    }
+   ]
+  },
+  {
+   "id": "4lOmpbfPIevpQPnMNJ4J2N",
+   "name": "GABBY'S DOLLHOUSE X NMIXX (Original Soundtrack)",
+   "label": "OST",
+   "date": "2022-05-02",
+   "artists": "NMIXX",
+   "cover": "https://i.scdn.co/image/ab67616d0000b27317ba69592b5c100070f03e3a",
+   "spotify": "https://open.spotify.com/album/4lOmpbfPIevpQPnMNJ4J2N",
+   "tracks": [
+    {
+     "n": 1,
+     "name": "Hey Gabby!",
+     "artists": "NMIXX",
+     "duration": 119,
+     "title": true,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/75wt0Zz73OfAaGUVY3n24U",
+     "youtube": "https://www.youtube.com/watch?v=xBrrdxtyWHw",
+     "youtubeKind": "mv"
+    },
+    {
+     "n": 2,
+     "name": "Sprinkle Party",
+     "artists": "NMIXX",
+     "duration": 136,
+     "title": false,
+     "members": [],
+     "spotify": "https://open.spotify.com/track/501pyfeUUQCwU0W1WvgBQF",
+     "youtube": "https://music.youtube.com/search?q=NMIXX%20Sprinkle%20Party",
+     "youtubeKind": "search"
+    }
+   ]
+  }
+ ],
+ "members": [
+  {
+   "name": "Take A Chance (Feat. KYUJIN of NMIXX)",
+   "artists": "Jason Lee, KYUJIN",
+   "members": [
+    "KYUJIN"
+   ],
+   "note": "Jason Lee 피처링",
+   "album": "Take A Chance",
+   "date": "2026-08-17",
+   "cover": "https://i.scdn.co/image/ab67616d0000b2738c75f81045959b881ead894b",
+   "spotify": "https://open.spotify.com/track/6kWp8MyPgNnFPV7rXOxtZx",
+   "youtube": "https://www.youtube.com/watch?v=WVKaQL46c3c",
+   "youtubeKind": "audio"
+  },
+  {
+   "name": "Always",
+   "artists": "Parc Jae Jung, SULLYOON",
+   "members": [
+    "SULLYOON"
+   ],
+   "note": "박재정 X 설윤",
+   "album": "Always",
+   "date": "2026-02-25",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273c3f765920afad526a279429e",
+   "spotify": "https://open.spotify.com/track/6HeD1iODjtr0nvPn6Hwux8",
+   "youtube": "https://www.youtube.com/watch?v=x6peEfIQVGE",
+   "youtubeKind": "mv"
+  },
+  {
+   "name": "Up & Down",
+   "artists": "배이 (NMIXX)",
+   "members": [
+    "BAE"
+   ],
+   "note": "「제4차 사랑혁명」 OST",
+   "album": "제4차 사랑혁명 (Original Sound Track) Pt.1",
+   "date": "2025-11-13",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273f0d56db7e7a724ed111b3a0f",
+   "spotify": "https://open.spotify.com/track/4YGhgJsNrg0E7wTUKsU2Zn",
+   "youtube": "https://www.youtube.com/watch?v=Sgx-XE2EAI4",
+   "youtubeKind": "mv"
+  },
+  {
+   "name": "54321 (Feat. HAEWON of NMIXX)",
+   "artists": "pH-1, HAEWON",
+   "members": [
+    "HAEWON"
+   ],
+   "note": "pH-1 피처링",
+   "album": "WHAT HAVE WE DONE",
+   "date": "2025-08-13",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273cbcfde8e7e00d26dd9c4a508",
+   "spotify": "https://open.spotify.com/track/1XQyhh06QLaEDCyPUax2sz",
+   "youtube": "https://music.youtube.com/search?q=pH-1%2054321%20%28Feat.%20HAEWON%20of%20NMIXX%29",
+   "youtubeKind": "search"
+  },
+  {
+   "name": "Ridin′ (Prod. THE HUB)",
+   "artists": "LILY, JIWOO, KYUJIN",
+   "members": [
+    "LILY",
+    "JIWOO",
+    "KYUJIN"
+   ],
+   "note": "「월드 오브 스트릿 우먼 파이터」",
+   "album": "WORLD OF STREET WOMAN FIGHTER(WSWF) Original Vol.2 (Class Mission)",
+   "date": "2025-06-10",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273fab89e1c50850a6e8d548472",
+   "spotify": "https://open.spotify.com/track/4bGMm3NwFM8q8YC3Y6VLOE",
+   "youtube": "https://www.youtube.com/watch?v=YR7EOzMZt1w",
+   "youtubeKind": "audio"
+  },
+  {
+   "name": "Butterfly",
+   "artists": "Yoo Jae Seok, Johan Kim, Haha, KCM, Woojae Joo, John Park, Jinjoo Park, Yikyung Lee, AILEE, Mijoo",
+   "members": [
+    "HAEWON"
+   ],
+   "note": "「놀면 뭐하니?」 윈터송",
+   "album": "Hang Out With YOO Wintersong - Songs to sing in winter Part 2.",
+   "date": "2025-01-25",
+   "cover": "https://i.scdn.co/image/ab67616d0000b2738b907dc14eba1eba4b71a119",
+   "spotify": "https://open.spotify.com/track/7hHHVk8zubIU0x4GSFchW4",
+   "youtube": "https://www.youtube.com/watch?v=YVYZocFRosw",
+   "youtubeKind": "mv"
+  },
+  {
+   "name": "Is it still beautiful",
+   "artists": "Park Jin Joo, AILEE, 미주, HAEWON",
+   "members": [
+    "HAEWON"
+   ],
+   "note": "「놀면 뭐하니?」 윈터송",
+   "album": "Hang Out With YOO Wintersong - Songs to sing in winter Part 1.",
+   "date": "2025-01-18",
+   "cover": "https://i.scdn.co/image/ab67616d0000b27342373e52eaf525047a91af56",
+   "spotify": "https://open.spotify.com/track/4a65ypwZTUgZseP6FM1zRg",
+   "youtube": "https://music.youtube.com/search?q=Park%20Jin%20Joo%20Hang%20Out%20With%20YOO%20Wintersong%20-%20Songs%20to%20sing%20in%20winter%20Part%201.%20%3CIs%20it%20still%20beautiful%3E",
+   "youtubeKind": "search"
+  },
+  {
+   "name": "Maru is a Puppy",
+   "artists": "HAEWON",
+   "members": [
+    "HAEWON"
+   ],
+   "note": "「마루는 강쥐」 OST",
+   "album": "Maru is a Puppy (Original Soundtrack)",
+   "date": "2024-09-10",
+   "cover": "https://i.scdn.co/image/ab67616d0000b2732b98021b174fc02eca6ff720",
+   "spotify": "https://open.spotify.com/track/4jN7CjfuAltgcjeL4G8ovZ",
+   "youtube": "https://www.youtube.com/watch?v=KpEx4gisRbM",
+   "youtubeKind": "mv"
+  },
+  {
+   "name": "Delete (Feat. LILY of NMIXX)",
+   "artists": "YAOCHEN",
+   "members": [
+    "LILY"
+   ],
+   "note": "YAOCHEN 피처링",
+   "album": "Adventure Player",
+   "date": "2023-11-20",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273b89a49126de10f246ad15f2e",
+   "spotify": "https://open.spotify.com/track/61K3FGvhdfWYEmlBvhkUTM",
+   "youtube": "https://www.youtube.com/watch?v=FWCT5BAkRuI",
+   "youtubeKind": "audio"
+  },
+  {
+   "name": "The Moment",
+   "artists": "LILY, SULLYOON",
+   "members": [
+    "LILY",
+    "SULLYOON"
+   ],
+   "note": "넷플릭스 「연애대전」 OST",
+   "album": "Love to Hate You, Pt. 4 (Original Soundtrack from the Netflix Series)",
+   "date": "2023-02-16",
+   "cover": "https://i.scdn.co/image/ab67616d0000b273e4d64f97ee6e2470b8cb755c",
+   "spotify": "https://open.spotify.com/track/6QJWJ6hjq5ESMZtsNLJq1w",
+   "youtube": "https://www.youtube.com/watch?v=2MXDTS35Kss",
+   "youtubeKind": "mv"
+  }
+ ]
+}

@@ -54,8 +54,9 @@
   /* ---------------- Router ---------------- */
   function route() {
     const name = location.hash.replace(/^#\/?/, '') || 'home';
-    const view = name === 'calendar' ? 'calendar' : 'home';
+    const view = ['calendar', 'music'].includes(name) ? name : 'home';
     $('#view-home').hidden = view !== 'home';
+    $('#view-music').hidden = view !== 'music';
     $('#view-calendar').hidden = view !== 'calendar';
     document.querySelectorAll('.nav-links a').forEach(a => a.classList.toggle('active', a.dataset.route === view));
     if (bgPlayer && bgPlayer.pauseVideo) view === 'home' ? bgPlayer.playVideo() : bgPlayer.pauseVideo();

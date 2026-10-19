@@ -22,6 +22,7 @@
     <a class="brand" href="#/">MIXX<span>-notes</span></a>
     <nav class="nav-links">
       <a href="#/" data-route="home">Home</a>
+      <a href="#/music" data-route="music">Music</a>
       <a href="#/calendar" data-route="calendar">Calendar</a>
     </nav>
     <button class="icon-btn" id="theme-toggle" aria-label="테마 전환" title="테마 전환">
@@ -71,6 +72,27 @@
     </section>
   </main>
 
+  <!-- MUSIC -->
+  <main id="view-music" class="view wrap" hidden>
+    <div class="music-head">
+      <div>
+        <h1 class="page-title">Discography</h1>
+        <p class="page-sub" id="music-sub">NMIXX와 멤버들이 부른 모든 노래</p>
+      </div>
+      <div class="segmented glass" role="tablist" aria-label="분류">
+        <button role="tab" data-tab="albums" aria-selected="true">앨범</button>
+        <button role="tab" data-tab="collabs" aria-selected="false">콜라보 &amp; OST</button>
+        <button role="tab" data-tab="members" aria-selected="false">멤버 참여곡</button>
+      </div>
+    </div>
+    <div id="music-filters" class="cal-filters member-filters" hidden></div>
+    <div id="music-body"><p class="muted">불러오는 중…</p></div>
+  </main>
+
+  <dialog id="album-dialog" class="album-dialog glass" aria-labelledby="dlg-title">
+    <div class="dlg-inner" id="dlg-inner"></div>
+  </dialog>
+
   <!-- CALENDAR -->
   <main id="view-calendar" class="view wrap" hidden>
     <div class="cal-layout">
@@ -102,5 +124,6 @@
 
   <script src="assets/js/ics.js"></script>
   <script src="assets/js/app.js"></script>
+  <script src="assets/js/music.js"></script>
 </body>
 </html>
